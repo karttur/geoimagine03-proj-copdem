@@ -1,0 +1,87 @@
+ts-mdsl-rntwi_RNTWI_id_2001-2016_AS:
+    file: ts-mdsl-rntwi_RNTWI_id_2001-2016_AS.jpg
+    author: Thomas Gumbricht
+    caption: Theil-Sen estimated median change in rain normalised soil moisture 2001-2016, Indonesia
+    credit: null
+    source: null
+
+arcticdem_polar-stereographic:
+  file: arcticdem_polar-stereographic.jpg
+  source: arcticdem_polar-stereographic.jpg
+  author: Thomas Gumbricht
+  caption: Arctic Digital Elevation Model (DEM) in polar stereographic projection (orignal download format).
+  credit: null
+  source: null
+
+arcticdem_h18v02:
+  file: arcticdem_h18v02.jpg
+  source: arcticdem_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: Arctic Digital Elevation Model (DEM) projected to MODIS SIN grid h18v02 (central Scandinavia).
+  credit: null
+  source: null
+
+dem_detail_h18v02:
+  file: dem_detail_h18v02.jpg
+  source: dem_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: DEM detail.
+  credit: null
+  source: null
+
+hillshade_detail_h18v02:
+  file: hillshade_detail_h18v02.jpg
+  source: hillshade_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: Hillshade detail.
+  credit: null
+  source: null
+
+slope_detail_h18v02:
+  file: slope_detail_h18v02.jpg
+  source: slope_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: Slope detail.
+  credit: null
+  source: null
+
+aspect_detail_h18v02:
+  file: aspect_detail_h18v02.jpg
+  source: aspect_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: Aspect detail.
+  credit: null
+  source: null
+
+
+tpi500detail:
+  file: tpi500_detail_h18v02.jpg
+  source: tpi500_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: TPI @ 500 m, detail.
+  credit: null
+  source: null
+
+tpi1000detail:
+  file: tpi1000_detail_h18v02.jpg
+  source: tpi1000_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: TPI @ 1000 m, detail.
+  credit: null
+  source: null
+
+tpi1500detail:
+  file: tpi1500_detail_h18v02.jpg
+  source: tpi1500_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: TPI @ 1500 m, detail.
+  credit: null
+  source: null
+
+tpi2000detail:
+  file: tpi2000_detail_h18v02.jpg
+  source: tpi2000_detail_h18v02.jpg
+  author: Thomas Gumbricht
+  caption: TPI @ 2000 m, detail.
+  credit: null
+  source: null

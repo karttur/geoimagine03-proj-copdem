@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  include: 'N'
+
+- title: Fount
+  url: /
+  include: 'N'
+
+- title: Global DEMs
+  url: /globaldem/
+  include: 'N'
+
+- title: CopDEM processing
+  url: /copdem/
+  include: 'N'
+
+- title: Search
+  url: /search/
+  include: 'N'
