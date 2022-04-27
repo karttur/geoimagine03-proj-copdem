@@ -16,7 +16,6 @@ modified: '2021-08-11 T18:17:25.000Z'
 comments: true
 share: true
 figure1: soil-moisture-avg_SPL3SMP_global_2015-2018@D001_005
-
 ---
 <script src="https://karttur.github.io/common/assets/js/karttur/togglediv.js"></script>
 
