@@ -18,6 +18,14 @@ This blog on global Digital Elevation Models (DEMs) contains two parts; 1) a gen
 {% endfor %}
 </ul>
 
+<h2>Processing of Gisco-Services CopDEM (redundant)</h2>
+
+<ul class="post-list">
+{% for post in site.categories.copdemgs reversed limit:5 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
+
 <h2>Copernicus DEM processing</h2>
 
 <ul class="post-list">

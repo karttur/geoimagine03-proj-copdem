@@ -29,7 +29,7 @@ You must have installed Karttur's GeoImagine Framework. You also need a register
 
 ## Overview
 
-This post summarises the processes chain for Copernicus DEM in Karttur's GeoImagine Framework. Each step in the process chain is explained in more detail in linked posts. The Copernius DEM in 90 m spatial resoultion is used as an example.
+This post summarises the processes chain for Copernicus DEM in Karttur's GeoImagine Framework. Each step in the process chain is explained in more detail in linked posts. The Copernicus DEM in 90 m spatial resolution is used as an example.
 
 ### A note on hydrological corrections
 
